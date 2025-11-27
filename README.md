@@ -8,7 +8,7 @@ Before starting it's necessary that you install the simulator. You can find a tu
 
 Now that you already have the dependencies, and all, you can clone this actual repository in /home.
 
-git clone https://github.com/dankewos/P2_Project.Aceldo.Briones.Sotomayor.git
+git clone [https://github.com/AndresLuqueP/F1Tenth-AndresLuque.git]
 
 2. Access to the repository location
 
