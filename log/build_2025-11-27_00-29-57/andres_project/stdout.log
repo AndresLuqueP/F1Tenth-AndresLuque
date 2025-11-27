@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/andres_project/andres_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/andres_project/andres_project.egg-info/dependency_links.txt
+writing entry points to ../../build/andres_project/andres_project.egg-info/entry_points.txt
+writing requirements to ../../build/andres_project/andres_project.egg-info/requires.txt
+writing top-level names to ../../build/andres_project/andres_project.egg-info/top_level.txt
+reading manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+writing manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/andres_project/andres_project.egg-info to /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing FollowTheGap_node script to /home/andres/andres_ws/install/andres_project/lib/andres_project
+writing list of installed files to '/home/andres/andres_ws/build/andres_project/install.log'

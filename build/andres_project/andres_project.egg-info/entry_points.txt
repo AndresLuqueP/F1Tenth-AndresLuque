@@ -1,0 +1,3 @@
+[console_scripts]
+follow_gap = andres_project.FollowTheGap_node:main
+

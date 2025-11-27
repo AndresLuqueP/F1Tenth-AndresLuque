@@ -1,0 +1,21 @@
+[0.464s] Invoking command in '/home/andres/andres_ws/src/andres_project': PYTHONPATH=/home/andres/andres_ws/build/andres_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/andres_project build --build-base /home/andres/andres_ws/build/andres_project/build install --record /home/andres/andres_ws/build/andres_project/install.log --single-version-externally-managed install_data
+[0.638s] running egg_info
+[0.638s] writing ../../build/andres_project/andres_project.egg-info/PKG-INFO
+[0.638s] writing dependency_links to ../../build/andres_project/andres_project.egg-info/dependency_links.txt
+[0.638s] writing entry points to ../../build/andres_project/andres_project.egg-info/entry_points.txt
+[0.638s] writing requirements to ../../build/andres_project/andres_project.egg-info/requires.txt
+[0.638s] writing top-level names to ../../build/andres_project/andres_project.egg-info/top_level.txt
+[0.640s] reading manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+[0.640s] writing manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+[0.640s] running build
+[0.640s] running build_py
+[0.640s] running install
+[0.641s] running install_lib
+[0.641s] running install_data
+[0.641s] running install_egg_info
+[0.644s] removing '/home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info' (and everything under it)
+[0.645s] Copying ../../build/andres_project/andres_project.egg-info to /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info
+[0.646s] running install_scripts
+[0.662s] Installing FollowTheGap_node script to /home/andres/andres_ws/install/andres_project/lib/andres_project
+[0.663s] writing list of installed files to '/home/andres/andres_ws/build/andres_project/install.log'
+[0.683s] Invoked command in '/home/andres/andres_ws/src/andres_project' returned '0': PYTHONPATH=/home/andres/andres_ws/build/andres_project/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/andres_project build --build-base /home/andres/andres_ws/build/andres_project/build install --record /home/andres/andres_ws/build/andres_project/install.log --single-version-externally-managed install_data

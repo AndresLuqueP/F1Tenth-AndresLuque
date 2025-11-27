@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/andres_project/andres_project.egg-info/PKG-INFO
+writing dependency_links to ../../build/andres_project/andres_project.egg-info/dependency_links.txt
+writing entry points to ../../build/andres_project/andres_project.egg-info/entry_points.txt
+writing requirements to ../../build/andres_project/andres_project.egg-info/requires.txt
+writing top-level names to ../../build/andres_project/andres_project.egg-info/top_level.txt
+reading manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+writing manifest file '../../build/andres_project/andres_project.egg-info/SOURCES.txt'
+running build
+running build_py
+copying andres_project/__init__.py -> /home/andres/andres_ws/build/andres_project/build/lib/andres_project
+copying andres_project/FollowTheGap_node.py -> /home/andres/andres_ws/build/andres_project/build/lib/andres_project
+running install
+running install_lib
+copying /home/andres/andres_ws/build/andres_project/build/lib/andres_project/__init__.py -> /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project
+copying /home/andres/andres_ws/build/andres_project/build/lib/andres_project/FollowTheGap_node.py -> /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project
+byte-compiling /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project/FollowTheGap_node.py to FollowTheGap_node.cpython-310.pyc
+running install_data
+copying resource/andres_project -> /home/andres/andres_ws/install/andres_project/share/ament_index/resource_index/packages
+copying package.xml -> /home/andres/andres_ws/install/andres_project/share/andres_project
+running install_egg_info
+removing '/home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/andres_project/andres_project.egg-info to /home/andres/andres_ws/install/andres_project/lib/python3.10/site-packages/andres_project-0.0.0-py3.10.egg-info
+running install_scripts
+Installing follow_gap script to /home/andres/andres_ws/install/andres_project/lib/andres_project
+writing list of installed files to '/home/andres/andres_ws/build/andres_project/install.log'
